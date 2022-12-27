@@ -10,6 +10,7 @@
 
 # production
 /build
+/READMECopy
 
 # misc
 .DS_Store
