@@ -3,9 +3,9 @@
 
 ### Track Your Job Search
 
-Project in Action - [Jobster](https://your-jobster.netlify.app/)
+Project in Action - [Jobster](https://jobtrack.netlify.app/)
 
-Same app as the [Jobify](https://github.com/VanekCheck/Jobify) but
+##Overview
 - created based on README from [John Smilga](https://github.com/john-smilga/redux-toolkit-jobster) repository
 - redux implementation
 - already created API
