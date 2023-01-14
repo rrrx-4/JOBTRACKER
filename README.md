@@ -5,7 +5,7 @@
 
 Project in Action - [Jobster](https://jobtrack.netlify.app/)
 
-##Overview
+## Overview
 - created based on README from [John Smilga](https://github.com/john-smilga/redux-toolkit-jobster) repository
 - redux implementation
 - already created API
